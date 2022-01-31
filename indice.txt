@@ -1,0 +1,157 @@
+ÍNDICE
+
+Se você recebeu esse livro de terceiros, pode ser que sua versão não seja a mais atualizada.
+Para obter a versão mais atualizada visite www.xota.com.br para adquirir a versão mais atual desse livro.
+
+1. O que é o SOTA?
+    1.1 O que o SOTA não é
+	1.2 O que é o SOTA
+	1.3 História do SOTA
+		1.3.1 Quando e onde começou?
+        1.3.2 Evolução do SOTA no Mundo
+        1.3.3 SOTA no Brasil
+        1.3.4 Outras Fontes de Informação (web references, etc.)
+        1.3.5 Perspectivas (futuro)
+                Diferenças no QRM Cidade X Montanha
+    1.4 Critérios para verificar se uma montanha é uma montanha SOTA
+    1.5 Distribuição da pontuação das montanhas de uma associação
+
+
+2. Formas de Participação
+    2.1 Radioescuta
+    2.2 Caçador
+    2.3 Ativador
+
+
+3. Primeiros Passos
+    3.1 Ler as Regras
+    3.2 Cadastrar-se nos Sites Essenciais do SOTA
+    3.3 Associar-se a comunidades e grupos SOTA (redes sociais, twitter, etc)
+
+
+4. Primeiras Atividades (explicar tudo ainda superficialmente)
+    4.1 Como Radioescuta ou Caçador
+        4.1.1 Ficar atento às Ativações
+        4.1.2 Registrar a Escuta ou QSO
+    4.2 Como Ativador
+        4.2.1 Escolher a Montanha
+        4.2.2 Divulgar a Ativação
+        4.2.3 Registrar os QSOs
+
+
+5. Diplomas e Troféus
+
+
+6. Ranking SOTA
+    SOTA não é uma competição, mas...
+
+
+7. Ativações SOTA
+    Planejamento
+        7.1 Escolhendo a Montanha
+            - summits.sota.org.uk
+            - sotamaps.org
+            - Google Earth (falar do roubo do Google da ideia da X-Terra)
+            - SOTlas
+
+        7.2 Planejamento
+            Segurança em primeiro lugar
+            Melhor época
+            Melhor horário (como combinar horário e propagação)
+                Propagação (talvez encontrar um outro local para falar sobre propagação)
+                Características de propagação em cada faixa
+                Previsão de propagação
+            Equipamento para a subida (montanhismo - básico)
+            Equipamento básico de rádio (checklist)
+
+        7.3 Emitindo o Alerta
+
+
+    Subindo a Montanha
+        Preparo Físico
+        Condições Meteorológicas
+
+    No Pico
+        Convivência com os demais Montanhistas
+        Sobre a Zona de Ativação
+        Montando o Sistema Irradiante
+        Posicionando o Equipamento de Rádio (um pouco de conforto sempre é bom)
+        CQ SOTA
+        Spot
+        Anotando os QSOs
+        QRT (Encerrando as Transmissões)
+
+    Após descer a Montanha
+        Registrando os QSOs no SOTA Data
+        Divulgando os Resultados da Ativaçao (fotos, áudios, vídeos, blog etc.)
+
+8. Caçadas
+    Radioescutas e Caçadores
+        8.1 Equipamento do radioescuta
+        8.2 Equipamento do caçador
+        8.3 Buscando o alerta de ativação
+        8.4 Ouvir, ouvir, ouvir (tanto para radio escuta e principalmente para caçador)
+        8.5 Anotando os QSos
+        8.6 Lançar os QSOs no SOTA Data
+
+
+9. Frequências e Modos de Operação
+
+10. Equipamentos de Rádio (aprofundado)
+    10.1 Rádios
+        10.1.1 HTs
+        10.1.2 Rádios Base
+        10.1.3 Rádios HF
+
+    10.2 Antenas
+        VHF
+        10.2.1 Omnidirecionais
+        10.2.2 Moxon
+        10.2.3 Yagi-Uda
+        HF
+        10.2.4 Dipolos
+        10.2.5 Linked Dipole
+        10.2.5 EFHW
+        10.2.6 Outras Antenas dignas de nota
+        10.2.7 Comparação de Desempenho entre Antenas (isso será um desafio!)
+        10.2.8 Técnicas de Operação
+            Apontando a antena na direção certa
+            Azimute e elevação
+            Reflexão nas montanhas (VHF)
+
+
+    10.3 Mastros & Co.
+        10.3.1 Utilizando-se da natureza
+        10.3.2 Mastros
+        10.3.3 Como fixar o Mastro (melhores práticas)
+
+    10.4 Cabos
+
+    10.5 Fontes de Energia
+        10.5.1 As regras do SOTA
+        10.5.2 Os diferentes tipos de Baterias (explicação, prós e contras)
+            Controlando a Energia Disponível (tratar não como tópico, mas como tema no texto)
+            Controlando a Carga da Bateria (tratar não como tópico, mas como tema no texto)
+        10.5.3 Sistemas Solares
+            Os fins determinam os meios (quando usar os painéis solares)
+
+            Potência de Operação (acho que está meio deslocada aqui nessa posição, pensar a respeito)
+                Operação com média e alta potência
+                Operação QRP ou QQRP
+
+
+    10.6 Periféricos e Utensílios
+        10.6.1 Wattímetro (Medidor de ROE)
+        10.6.2 NanoVNA
+        10.6.3 Voltímetro / Amperímetro
+        10.6.4 Ferramentas e Acessórios
+            Conectores, Adaptadores
+            Fitas, Tirantes, etc
+
+    SOTA na Sociedade
+        Auxílio em Emergências
+        Projetos Educacionais
+            Ciências
+            Ecologia
+        Interação com outras comunidades de radioamadores
+            Radioescotismo
