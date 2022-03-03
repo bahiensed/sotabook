@@ -40,7 +40,7 @@ Para obter a versão mais atualizada visite www.xota.com.br para adquirir a vers
 
 
 5. Diplomas e Troféus
-
+	Como pedir o seu diploma ou troféu?
 
 6. Ranking SOTA
     SOTA não é uma competição, mas...
@@ -65,11 +65,16 @@ Para obter a versão mais atualizada visite www.xota.com.br para adquirir a vers
             Equipamento básico de rádio (checklist)
 
         7.3 Emitindo o Alerta
+	    É válido anunciar uma ativação?
+	    Qual a dificuldade então para o caçador?
+	    Isso é uma pseudo preocupação de gente que quer menosprezar o SOTA.
 
 
     Subindo a Montanha
         Preparo Físico
         Condições Meteorológicas
+	Pode ir de carro até o cume?
+	O que é Zona de Ativação?
 
     No Pico
         Convivência com os demais Montanhistas
@@ -79,11 +84,14 @@ Para obter a versão mais atualizada visite www.xota.com.br para adquirir a vers
         CQ SOTA
         Spot
         Anotando os QSOs
+	Contato S2S, o que é?
         QRT (Encerrando as Transmissões)
 
     Após descer a Montanha
         Registrando os QSOs no SOTA Data
+	Como registrar um QSO S2S?
         Divulgando os Resultados da Ativaçao (fotos, áudios, vídeos, blog etc.)
+	Fraude de/na Ativação
 
 8. Caçadas
     Radioescutas e Caçadores
